@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.91a775d6.chunk.css",
-    "main.js": "/static/js/main.886a0f10.chunk.js",
-    "main.js.map": "/static/js/main.886a0f10.chunk.js.map",
+    "main.js": "/static/js/main.2f76808e.chunk.js",
+    "main.js.map": "/static/js/main.2f76808e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1936e4af.js",
     "runtime-main.js.map": "/static/js/runtime-main.1936e4af.js.map",
     "static/css/2.9d7b5751.chunk.css": "/static/css/2.9d7b5751.chunk.css",
@@ -17,7 +17,7 @@
     "static/media/index.css": "/static/media/Helvetica.06113bf7.ttf",
     "static/media/Hero2.390e2edc.svg": "/static/media/Hero2.390e2edc.svg",
     "static/media/Illustration.515ab9e7.png": "/static/media/Illustration.515ab9e7.png",
-    "static/media/Vectarytexture.36349fc8.png": "/static/media/Vectarytexture.36349fc8.png",
+    "static/media/Vectarytexture.2416b58f.png": "/static/media/Vectarytexture.2416b58f.png",
     "static/media/Virtue.3d895fbf.svg": "/static/media/Virtue.3d895fbf.svg",
     "static/media/client1.a371d885.png": "/static/media/client1.a371d885.png",
     "static/media/client2.737c9028.png": "/static/media/client2.737c9028.png",
@@ -29,6 +29,6 @@
     "static/css/2.9d7b5751.chunk.css",
     "static/js/2.fc330e87.chunk.js",
     "static/css/main.91a775d6.chunk.css",
-    "static/js/main.886a0f10.chunk.js"
+    "static/js/main.2f76808e.chunk.js"
   ]
 }
